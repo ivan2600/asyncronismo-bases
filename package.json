@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ivan2600/asyncronismo-bases/issues"
   },
-  "homepage": "https://github.com/ivan2600/asyncronismo-bases#readme"
+  "homepage": "https://github.com/ivan2600/asyncronismo-bases#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
 }
